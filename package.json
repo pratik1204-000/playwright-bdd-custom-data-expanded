@@ -1,0 +1,23 @@
+{
+  "name": "playwright-bdd-custom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3",
+    "playwright-bdd": "^8.4.2"
+  },
+  "dependencies": {
+    "@types/glob": "^8.1.0",
+    "@types/pdfkit": "^0.17.5",
+    "docx": "^9.6.0",
+    "exceljs": "^4.4.0",
+    "image-size": "^2.0.2",
+    "pdfkit": "^0.17.2"
+  }
+}

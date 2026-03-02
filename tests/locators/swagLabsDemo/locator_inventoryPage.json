@@ -1,0 +1,4 @@
+{
+    "inventoryContainer": ".inventory_list",
+    "productTitle": ".title"
+}
